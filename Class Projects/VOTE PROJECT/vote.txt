@@ -1,0 +1,41 @@
+﻿1)Vote A
+2)Vote B
+3)Vote C
+1
+Votes for A = 1
+Votes for B = 0
+Votes for C = 0
+Enter 1 or any number to continue else 0 to finish Voting Thank you for your Vote!
+1
+1)Vote A
+2)Vote B
+3)Vote C
+2
+Votes for A = 1
+Votes for B = 1
+Votes for C = 0
+Enter 1 or any number to continue else 0 to finish Voting Thank you for your Vote!
+1
+1)Vote A
+2)Vote B
+3)Vote C
+3
+Votes for A = 1
+Votes for B = 1
+Votes for C = 1
+Enter 1 or any number to continue else 0 to finish Voting Thank you for your Vote!
+1
+1)Vote A
+2)Vote B
+3)Vote C
+1
+Votes for A = 2
+Votes for B = 1
+Votes for C = 1
+Enter 1 or any number to continue else 0 to finish Voting Thank you for your Vote!
+0
+Votes for A = 2
+Votes for B = 1
+Votes for C = 1
+A won with votes of 2
+Program ended with exit code: 0
